@@ -12,41 +12,42 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kayra =====
-[1]Kayra       |08:37:53 | 05-11-2026| login OK @kayrazerliana | score=2850 rank=2688
-[1]Kayra       |08:37:53 | 05-11-2026| serverTime=2026-11-05T08:37:53.000Z local=2026-11-05T08:37:53.981Z
+[1]Kayra       |08:37:26 | 06-11-2026| login OK @kayrazerliana | score=2900 rank=2605
+[1]Kayra       |08:37:26 | 06-11-2026| serverTime=2026-11-06T08:37:26.000Z local=2026-11-06T08:37:26.965Z
 --> [1]Kayra menjalankan: Claim Daily
-[1]Kayra       |08:37:55 | 05-11-2026| daily: OK +10 poin score=2860
---> [1]Kayra menjalankan: Auto All Tasks (4 pending)
-[1]Kayra       |08:37:58 | 05-11-2026| [1/4] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/kayrazerliana/status/2118260953692023803
-[1]Kayra       |08:37:58 | 05-11-2026| delay 10s...
-[1]Kayra       |08:38:11 | 05-11-2026| [2/4] 71a6b26f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/kayrazerliana/status/2118260955335181697
-[1]Kayra       |08:38:11 | 05-11-2026| delay 10s...
-[1]Kayra       |08:38:23 | 05-11-2026| [3/4] fefe8b6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/kayrazerliana/status/2118261145207547307
-[1]Kayra       |08:38:23 | 05-11-2026| delay 10s...
-[1]Kayra       |08:38:36 | 05-11-2026| [4/4] 9149dbd0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211816002805839 | proof=https://x.com/kayrazerliana/status/2118261387497617125
-[1]Kayra       |08:38:36 | 05-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kayra       |08:38:37 | 05-11-2026| [1/1] 5ff4a15b (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"5ff4a15b-b38b-41e9-b2aa-ec25b86baaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2118160028058399 | proof=https://x.com/kayrazerliana/status/2118261300543144209
+[1]Kayra       |08:37:28 | 06-11-2026| daily: OK +10 poin score=2910
+--> [1]Kayra menjalankan: Auto All Tasks (5 pending)
+[1]Kayra       |08:37:29 | 06-11-2026| [1/5] 6795f466 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/kayrazerliana/status/2118623207495513161
+[1]Kayra       |08:37:29 | 06-11-2026| delay 10s...
+[1]Kayra       |08:37:42 | 06-11-2026| [2/5] bf0ad10d (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/kayrazerliana/status/2118623292347300031
+[1]Kayra       |08:37:42 | 06-11-2026| delay 10s...
+[1]Kayra       |08:37:55 | 06-11-2026| [3/5] edbd5fee (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/kayrazerliana/status/2118623377216130637
+[1]Kayra       |08:37:55 | 06-11-2026| delay 10s...
+[1]Kayra       |08:38:07 | 06-11-2026| [4/5] 122ee3f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/kayrazerliana/status/2118623404470194093
+[1]Kayra       |08:38:07 | 06-11-2026| delay 10s...
+[1]Kayra       |08:38:19 | 06-11-2026| [5/5] 1366d543 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6795f466-c632-4f68-affc-fa1947dbcdef","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211860271211602 | proof=https://x.com/kayrazerliana/status/2118623737393817008
+[1]Kayra       |08:38:19 | 06-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kayra       |08:38:22 | 06-11-2026| [1/1] 6795f466 (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/kayrazerliana/status/2118623696078269706
 --> [1]Kayra menjalankan: Watch Anime
-[1]Kayra       |08:38:38 | 05-11-2026| watch: semua video sudah completed
+[1]Kayra       |08:38:23 | 06-11-2026| watch: semua video sudah completed
 --> [1]Kayra menjalankan: Read Article
-[1]Kayra       |08:38:39 | 05-11-2026| news: 34/34 artikel selesai dibaca
-[1]Kayra       |08:38:40 | 05-11-2026| mint eligibility: {"userId":"1694919689150058496","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Kayra       |08:38:40 | 05-11-2026| news: semua artikel sudah dibaca
+[1]Kayra       |08:38:26 | 06-11-2026| news: 34/34 artikel selesai dibaca
+[1]Kayra       |08:38:27 | 06-11-2026| news: semua artikel sudah dibaca
 --> [1]Kayra menjalankan: Quiz Anime
 --> [1]Kayra menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kayra       |08:38:42 | 05-11-2026| music: kedua misi sudah tercapai, stop
-[1]Kayra       |08:38:43 | 05-11-2026| mission music-listens-10: sudah diklaim
-[1]Kayra       |08:38:43 | 05-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kayra       |08:38:43 | 05-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kayra       |08:38:29 | 06-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kayra       |08:38:30 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Kayra       |08:38:30 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kayra       |08:38:30 | 06-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayra menjalankan: Claim Missions
-[1]Kayra       |08:38:43 | 05-11-2026| mission music-listens-10: sudah diklaim
-[1]Kayra       |08:38:43 | 05-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kayra       |08:38:43 | 05-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kayra       |08:38:30 | 06-11-2026| mission music-listens-10: sudah diklaim
+[1]Kayra       |08:38:30 | 06-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kayra       |08:38:30 | 06-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kayra menjalankan: Check Eligibility
 
 --- eligibility [1]Kayra ---
-  @kayrazerliana | score=2850 rank=2688
-  tasks    [####----------------] 1/5
+  @kayrazerliana | score=2900 rank=2605
+  tasks    [###-----------------] 1/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,17 +58,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kayra menjalankan: Read Manga
-[1]Kayra       |08:38:47 | 05-11-2026| manga: 0/13 chapter belum completed
+[1]Kayra       |08:38:36 | 06-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kayra menjalankan: Get Gift
-[1]Kayra       |08:38:48 | 05-11-2026| gift: 3/9 belum diterima
-[1]Kayra       |08:38:49 | 05-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kayra       |08:38:52 | 05-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kayra       |08:38:54 | 05-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayra       |08:38:38 | 06-11-2026| gift: 3/9 belum diterima
+[1]Kayra       |08:38:39 | 06-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayra       |08:38:42 | 06-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kayra       |08:38:45 | 06-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kayra menjalankan: Setup Profile
-[1]Kayra       |08:38:57 | 05-11-2026| profile: bio="https://x.com/kayrazerliana" fav=yuki rewardAt=1791684613
-[1]Kayra       |08:38:57 | 05-11-2026| profile: bonus sudah diklaim, skip
+[1]Kayra       |08:38:48 | 06-11-2026| profile: bio="https://x.com/kayrazerliana" fav=yuki rewardAt=1791684613
+[1]Kayra       |08:38:48 | 06-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kayra menjalankan: Bind Wallet
-[1]Kayra       |08:38:57 | 05-11-2026| wallet: sudah terikat GfnoesXQJt... (solana)
+[1]Kayra       |08:38:49 | 06-11-2026| wallet: sudah terikat GfnoesXQJt... (solana)
 
 == RINGKASAN ==
-- Kayra: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Kayra: daily=claimed | tasks OK 3/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
